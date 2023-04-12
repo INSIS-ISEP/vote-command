@@ -1310,3 +1310,5 @@ org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Character_Constant
 2023.04.12 17:42:09 WARN  no build target for: /home/nairon/Documents/Master's Degree Software Engineering/Integration Systems/vote-command/src/main/java/com/isep/votecommand/services/VoteCommandService.java
 2023.04.12 17:42:15 WARN  no build target for: /home/nairon/Documents/Master's Degree Software Engineering/Integration Systems/vote-command/src/main/java/com/isep/votecommand/services/VoteCommandServiceImpl.java
 2023.04.12 17:42:39 WARN  no build target for: /home/nairon/Documents/Master's Degree Software Engineering/Integration Systems/vote-command/src/main/java/com/isep/votecommand/controllers/VoteController.java
+Apr 12, 2023 5:58:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
